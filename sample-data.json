@@ -1,0 +1,6 @@
+{
+ "students": [
+   {"name": "Imash", "age": 17, "city": "Almaty"},
+   {"name": "Aruzhan", "age": 18, "city": "Astana"}
+ ]
+}
